@@ -1,5 +1,5 @@
 # Valores definidos
-a = 10
+a = 11
 b = 0  # Teste com zero
 
 # Operações
